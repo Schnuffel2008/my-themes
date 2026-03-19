@@ -58,7 +58,7 @@
     --txtboxbackhover: #000000;
     --txtboxbackactive: #000000;
     --txtboxbackdisabled: #000000;
-    --txtboxbacktoken: #1F62C1; 
+    --txtboxbacktoken: #1F62C1;
     --txtboxbackdel: #FF5252; /* only tokenize, pending delete */
     --txtboxbackdismiss: #F2F7FD; /* only tokenize, dismiss */
     /* border */
@@ -102,7 +102,7 @@
     --danger: #FF5252; /* danger accent */
     --dangerhover: #E64949; /* danger accent hover */
     /* alert messages */
-    /* alert*/ 
+    /* alert*/
     --alertback: #000000;
     --alertborder: transparent;
     /* alert success */
@@ -522,11 +522,11 @@ input {
   line-height: normal; }
 input[type=checkbox] {
   box-sizing: border-box;
-  padding: 0; 
+  padding: 0;
   accent-color: var(--colorcheckbox); }
 input[type=radio] {
   box-sizing: border-box;
-  padding: 0; 
+  padding: 0;
   accent-color: var(--colorradio); }
 input[type=number]::-webkit-inner-spin-button,
 input[type=number]::-webkit-outer-spin-button {
